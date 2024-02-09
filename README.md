@@ -1,2 +1,2 @@
 # einstein
-just practicing 
+just practicing something.
